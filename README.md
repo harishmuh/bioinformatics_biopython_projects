@@ -1,2 +1,8 @@
-# Data
-This folder contains some data for bioinformatic projects. Most of them are from my previous research and collaborators at Bandung Institute of Technology (ITB), Indonesia.
+# Bioinformatics Biopython Projects
+
+
+Hello everyone,
+This repository contains some bioinformatic projects of species identification (via DNA sequences) using biopython library
+
+![image](https://github.com/user-attachments/assets/8ca8a7fe-c045-435d-8c8b-054fcafc13b9)
+
