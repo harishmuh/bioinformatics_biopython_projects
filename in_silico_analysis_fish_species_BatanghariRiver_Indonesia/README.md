@@ -1,8 +1,12 @@
 # **In Silico Phylogenetic Analysis of Fish Species in The Batanghari River, Indonesia, using Biopython and FastTree Library**
 
-![River in Jambi](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/in_silico_analysis_fish_species_BatanghariRiver_Indonesia/data_and_assets/map%20of%20Jambi%20river.PNG)
+![Channa Micropeltes](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Channa_micropeltes_2012_G1.jpg/1920px-Channa_micropeltes_2012_G1.jpg)
+
+
 
 ## **Context**
+
+![River in Jambi](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/in_silico_analysis_fish_species_BatanghariRiver_Indonesia/data_and_assets/map%20of%20Jambi%20river.PNG)
 The Batanghari River, located in central Sumatra, Jambi, Province, Indonesia, is one of the region’s largest and most ecologically significant rivers. Its basin spans multiple provinces and encompasses diverse habitats, including freshwater lakes, wetlands, and mangrove ecosystems. These varied habitats support a remarkable diversity of aquatic life, particularly fish species. However, growing human activities such as deforestation, urbanization, and pollution pose significant threats to the river's biodiversity.
 
 Preserving the biodiversity of the Batanghari River is vital, not only for ecological stability but also for maintaining the river’s role in supporting local livelihoods and regional ecosystems. Additionally, understanding the relationships among fish species may offer critical insights into their ecological roles, which can guide effective conservation strategies.
