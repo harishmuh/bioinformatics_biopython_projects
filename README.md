@@ -3,8 +3,8 @@
 
 Hello everyone,
 
-This repository contains some bioinformatic projects, mainly species identification (via DNA sequences) and analysis, using biopython library.
+This repository contains some bioinformatic projects, mainly species identification (via DNA sequences) and analysis, using [biopython](https://github.com/biopython) library.
 
-![Biopython](https://github.com/biopython/biopython.github.io/blob/master/android-chrome-384x384.png)
+![Biopython](https://raw.githubusercontent.com/biopython/biopython/master/Doc/images/biopython_logo_m.png)
 
 
