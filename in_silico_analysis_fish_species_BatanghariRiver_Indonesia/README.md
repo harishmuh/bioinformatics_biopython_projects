@@ -97,3 +97,7 @@ The phylogenetic tree constructed using the Maximum-Likelihood (ML) method revea
 **Implications for Future Studies**
 * This analysis establishes a baseline for the molecular understanding of Batanghari River fish species. Future research should integrate locally sequenced genetic data and ecological studies to validate and enhance the findings.
 * Additional genetic markers, such as nuclear DNA, may be included to complement mitochondrial DNA in studying hybridization or deeper evolutionary patterns.
+
+## **Asset**
+* [Jupyter Notebook for Analysis](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/in_silico_analysis_fish_species_BatanghariRiver_Indonesia/data_and_assets/Fish_species_pyhlogenetic_tree_Jambi_INA_biopython_fasttree.ipynb)
+* [Scientific basis for this in silico study](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/in_silico_analysis_fish_species_BatanghariRiver_Indonesia/data_and_assets/nurdawati%20-%202007.pdf)
