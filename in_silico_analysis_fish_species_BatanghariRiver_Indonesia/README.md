@@ -1,7 +1,9 @@
-# **In Silico Analysis of Fish Species in the BatangHari River, Jambi, Indonesia**
+# **In Silico Phylogenetic Analysis of Fish Species in The Batanghari River, Indonesia, using Biopython and FastTree Library**
+
+![River in Jambi](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/in_silico_analysis_fish_species_BatanghariRiver_Indonesia/data_and_assets/map%20of%20Jambi%20river.PNG)
 
 ## **Context**
-The Batanghari River, located in central Sumatra, Indonesia, is one of the region’s largest and most ecologically significant rivers. Its basin spans multiple provinces and encompasses diverse habitats, including freshwater lakes, wetlands, and mangrove ecosystems. These varied habitats support a remarkable diversity of aquatic life, particularly fish species. However, growing human activities such as deforestation, urbanization, and pollution pose significant threats to the river's biodiversity.
+The Batanghari River, located in central Sumatra, Jambi, Province, Indonesia, is one of the region’s largest and most ecologically significant rivers. Its basin spans multiple provinces and encompasses diverse habitats, including freshwater lakes, wetlands, and mangrove ecosystems. These varied habitats support a remarkable diversity of aquatic life, particularly fish species. However, growing human activities such as deforestation, urbanization, and pollution pose significant threats to the river's biodiversity.
 
 Preserving the biodiversity of the Batanghari River is vital, not only for ecological stability but also for maintaining the river’s role in supporting local livelihoods and regional ecosystems. Additionally, understanding the relationships among fish species may offer critical insights into their ecological roles, which can guide effective conservation strategies.
 
@@ -15,7 +17,8 @@ The main objectives of this in silico study are:
 * To determine the evolutionary relationships among fish species from various habitats in the Batanghari River basin.
 
 ### **Dataset Source**
-* Scientific Basis: Nurdawati, S. (2007). Keanekaragaman dan Distribusi Benih Ikan di Beberapa Tipe Habitat Sungai Batanghari, Jambi. J. Lit. Perikan. Ind. Vol.13.
+* Scientific Basis: Nurdawati, S. (2007). [Study on biodiversity and distribution of fish fry in some type of habitats of Batanghari 
+River basin, Jambi (Abstract)](https://www.e-jurnal.com/2018/01/keanekaragaman-dan-distribusi-benih.html#more), [Article](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/in_silico_analysis_fish_species_BatanghariRiver_Indonesia/data_and_assets/nurdawati%20-%202007.pdf)
 * Genetic Data: DNA sequences for the selected fish species will be obtained from the NCBI GenBank database.
 
 ## **Data Collection**
@@ -45,6 +48,10 @@ The main objectives of this in silico study are:
 | MN256459.1    | Anguillicola crassus      |
 
 ## **Result and Key Insights**
+
+**Phylogenetic Tree**
+![Phylogenetic tree](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/in_silico_analysis_fish_species_BatanghariRiver_Indonesia/data_and_assets/Phylogenetic%20tree%20analysis%20-%20maximum%20likelihood.PNG)
+
 **Phylogenetic Tree Clusters and Insights**
 
 The phylogenetic tree constructed using the Maximum-Likelihood (ML) method reveals four main clusters of fish species, alongside the role of an outgroup species. Below is the detailed interpretation of the clusters, species relationships, and evolutionary patterns:
