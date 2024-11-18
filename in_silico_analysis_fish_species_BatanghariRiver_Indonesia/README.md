@@ -1,6 +1,7 @@
 # **In Silico Phylogenetic Analysis of Fish Species in The Batanghari River, Indonesia, using Biopython and FastTree Library**
 
 ![Channa Micropeltes](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Channa_micropeltes_2012_G1.jpg/1920px-Channa_micropeltes_2012_G1.jpg)
+Figure of Channa micropeltes, the native fish species in Sumatra, including rivers like the Batanghari.
 
 
 
