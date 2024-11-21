@@ -62,25 +62,21 @@ We will analyse and evaluate the 10 results based on BLAST parameters such as qu
 
 **Query Coverage**
 
-* Low Coverage (28.8%): A query coverage of 28.8% means only a small portion of the query sequence aligns with the database sequences. This suggests that the sequence may be incomplete, or there is a significant mismatch between query and the available database entries.
-Implication: The low coverage diminishes confidence in these matches as they represent only a fraction of the query sequence. The unaligned portion could contain crucial information that differentiates your sample from these hits.
+* Low Coverage (28.8%): A query coverage of 28.8% means only a small portion of the query sequence aligns with the database sequences. This suggests that the sequence may be incomplete, or there is a significant mismatch between query and the available database entries. Moreover, the low coverage diminishes confidence in these matches as they represent only a fraction of the query sequence. 
 
 **Percent Identity**
 
-* Moderate Identity (76.1% - 77.9%): Percent identities ranging from 76.1% to 77.9% indicate that your query shares some similarities with the database sequences, but they are far from identical. For bacterial identification using 16S rRNA, a percent identity above 97%-99% is typically required for species-level identification, and 95%-97% for genus-level identification.
-Implication: These values suggest the query sequence might belong to a distant or uncharacterized relative of the listed species or even a novel bacterium.
+* Moderate Identity (76.1% - 77.9%): Percent identities ranging from 76.1% to 77.9% indicate that your query shares some similarities with the database sequences, but they are far from identical. For bacterial identification using 16S rRNA, a percent identity above 97%-99% is typically required for species-level identification, and 95%-97% for genus-level identification. These values suggest the query sequence might belong to a distant or uncharacterized relative of the listed species or even a novel bacterium.
 
 **E-value**
 
-* Significant Matches (1.39e-28 to 9.37e-31): The E-values are extremely low, which indicates the matches are statistically significant and unlikely to have occurred by chance.
-Implication: Despite low query coverage and moderate identity, the matches are real and relevant. However, they represent partial similarities rather than complete sequence identity.
+* Significant Matches (1.39e-28 to 9.37e-31): The E-values are extremely low, which indicates the matches are statistically significant and unlikely to have occurred by chance. Despite low query coverage and moderate identity, the matches are real and relevant. However, they represent partial similarities rather than complete sequence identity.
 
 **Database Matches**
 
 * Most of the matches are described as Uncultured bacteria or Aerococcus sp.
-* Uncultured Bacteria: Many entries are uncultured bacteria, which means they were identified from environmental samples without isolation or characterization.
-* Aerococcus Matches: Some matches, such as Aerococcus sp. or Aerococcus viridans, suggest that the sequence might belong to a bacterium within this genus. Aerococcus species are generally found in environmental samples like soil, water, or air and can sometimes be associated with clinical or agricultural contexts.
-* Implication: The predominance of uncultured bacteria indicates that the sequence might belong to a poorly characterized group or environmental bacterium.
+* Uncultured Bacteria: Many entries are uncultured bacteria, which means they were identified from environmental samples.
+* Aerococcus: Some matches, such as Aerococcus sp. or Aerococcus viridans, suggest that the sequence might belong to a bacterium within this genus. Furthermore, Aerococcus species are generally found in environmental samples like soil, water, or air and can sometimes be associated with clinical or agricultural contexts.
 
 
 ### Conlusion
