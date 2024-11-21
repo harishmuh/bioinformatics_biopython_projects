@@ -1,4 +1,4 @@
-# **In Silico Phylogenetic Analysis of Fish Species in The Batanghari River, Indonesia, using Biopython and FastTree Library**
+# **In Silico Phylogenetic Analysis of Fish Species in The Batanghari River, Indonesia, using Biopython and FastTree Libraries**
 
 ![Channa Micropeltes](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Channa_micropeltes_2012_G1.jpg/1920px-Channa_micropeltes_2012_G1.jpg)
 Figure of Channa micropeltes, the native fish species in Sumatra, including rivers like the Batanghari.
@@ -98,6 +98,6 @@ The phylogenetic tree constructed using the Maximum-Likelihood (ML) method revea
 * This analysis establishes a baseline for the molecular understanding of Batanghari River fish species. Future research should integrate locally sequenced genetic data and ecological studies to validate and enhance the findings.
 * Additional genetic markers, such as nuclear DNA, may be included to complement mitochondrial DNA in studying hybridization or deeper evolutionary patterns.
 
-## **Asset**
+## **Assets**
 * [Jupyter Notebook for Analysis](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/in_silico_analysis_fish_species_BatanghariRiver_Indonesia/data_and_assets/Fish_species_pyhlogenetic_tree_Jambi_INA_biopython_fasttree.ipynb)
 * [Scientific basis for this in silico study](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/in_silico_analysis_fish_species_BatanghariRiver_Indonesia/data_and_assets/nurdawati%20-%202007.pdf)
