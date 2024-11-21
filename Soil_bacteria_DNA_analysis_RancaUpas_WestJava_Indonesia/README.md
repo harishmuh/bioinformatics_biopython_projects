@@ -1,8 +1,15 @@
 # 16S rRNA Gene Analysis of The Isolated Bacteria DNA from Soil Sample in Ranca Upas, West Java, Indonesia
 
+![Ranca Upas](https://backpackerjakarta.com/wp-content/uploads/2016/09/Ranca-Upas-Bandung-Jawa-Barat.jpg)
+
+View of Ranca Upas, West Java, Indoensia
+
+
+
 ## Context
 
-### Background
+**Background**
+
 Microbial isolation and identification are essential for understanding microbial diversity in the environment. Soil, a complex ecosystem, harbors bacteria that play vital roles in nutrient cycling, organic matter decomposition, and soil health. Identifying these bacteria provides insights into their ecological functions and potential applications in agriculture and biotechnology.
 
 The 16S rRNA gene is an ideal marker for bacterial identification, with conserved regions for universal primer design and variable regions for species differentiation. This gene helps classify bacterial species from diverse environments.
@@ -11,7 +18,7 @@ Ranca Upas in Ciwidey, West Java, is ecologically significant, with its unique s
 
 This study employs BioPython, a powerful library for computational biology, to process and analyze sequences. The BLAST (Basic Local Alignment Search Tool) algorithm is used to compare the sequences against established databases, enabling identification of the bacteria.
 
-### Objective of the Analysis
+**Objective of the Analysis**
 
 The primary objective is to analyze and to identify bacterial sequence isolated from soil samples in Ranca Upas using BioPython and BLAST bioinformatics tools.
 
@@ -22,6 +29,10 @@ The primary objective is to analyze and to identify bacterial sequence isolated 
 #### Sample Collection and Bacterial Colony Isolation
 
 The soil sample was collected (Soil sample in Ranca Upas, West Java, Indonesia) using sterile tools to avoid contamination, ensuring an accurate representation of the microbial community. Once collected, the sample was stored on cooler box until it could be processed in the lab. In the lab, the soil sample was mixed with a sterile liquid, phosphate-buffered saline (PBS), and vigorously shaken to release bacteria from soil particles. Serial dilution was performed on the solution to reduce microbial concentrations. Then, diluted solution was spread on agar plates and incubated at the suitable temperature until colonies were seen on agar. Individual bacterial colonies were isolated on nutrient agar plates and further incubated to promote growth. After incubation, distinct colonies with unique morphologies were selected for DNA extraction. In this study, only one colony was selected for further investigation.
+
+**Sampling Location**
+
+![Sampling Location](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/Soil_bacteria_DNA_analysis_RancaUpas_WestJava_Indonesia/Sampling%20location.PNG)
 
 #### DNA Extraction, Amplification, and Verification
 
@@ -43,9 +54,11 @@ After establishing the consensus sequence, Biopython's BLAST interface was used 
 
 #### Analysis of BLAST Results
 
-We will analyse and evaluate the 10 results based on BLAST paramaters such as query coverage, percent identity, E-value, and database matches.
+We will analyse and evaluate the 10 results based on BLAST parameters such as query coverage, percent identity, E-value, and database matches.
 
 **BLAST Results**
+
+![Blast Results](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/Soil_bacteria_DNA_analysis_RancaUpas_WestJava_Indonesia/blast_result_pandas.PNG)
 
 **Query Coverage**
 
@@ -69,7 +82,7 @@ Implication: Despite low query coverage and moderate identity, the matches are r
 * Aerococcus Matches: Some matches, such as Aerococcus sp. or Aerococcus viridans, suggest that the sequence might belong to a bacterium within this genus. Aerococcus species are generally found in environmental samples like soil, water, or air and can sometimes be associated with clinical or agricultural contexts.
 * Implication: The predominance of uncultured bacteria indicates that the sequence might belong to a poorly characterized group or environmental bacterium.
 
-## Conclusion
+
 ### Conlusion
 
 Based on the current data, the sequence cannot be conclusively identified, and additional analysis or data collection is recommended. The matches suggest environmental or soil-dwelling bacteria related to Aerococcus, but the low coverage raises questions about the completeness of the alignment.
@@ -80,3 +93,8 @@ There are some recommendations for the improvement of our result, such as:
 
 * Use more specialized databases: Consider running the BLAST search against specialized 16S rRNA databases (e.g., SILVA, RDP, or Greengenes) that may contain more comprehensive entries for environmental bacteria.
 * Expand analysis: Supplement the BLAST results with phylogenetic analysis or clustering methods to compare the query sequence against closely related bacteria.
+
+## Asset
+* [Notebook for Analysis](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/Soil_bacteria_DNA_analysis_RancaUpas_WestJava_Indonesia/RancaUpas_Bacterial%20Sequence%20Analysis.ipynb)
+
+
