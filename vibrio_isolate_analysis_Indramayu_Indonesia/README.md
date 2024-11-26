@@ -213,18 +213,18 @@ This study investigated the genetic identification, phylogenetic relationship, a
 
 **BLAST Analysis**
 
-* First Isolate: MEGABLAST results revealed a very high similarity (99.93% identity) to Vibrio sp. YASM14 and Vibrio rotiferianus strain 32BCA. These species are known to be associated with aquaculture environments and may have pathogenic potential.
-* Second Isolate: The closest match was Vibrio sp. MY-2008-U5 with 100% identity and 97.61% query coverage. Other matches included Vibrio harveyi and Vibrio owensii, both of which are known aquaculture pathogens.
+* **First Isolate Identity**: MEGABLAST results revealed a very high similarity (99.93% identity) to Vibrio sp. YASM14 and Vibrio rotiferianus strain 32BCA. These species are known to be associated with aquaculture environments and may have pathogenic potential.
+* **Second Isolate Identity**: The closest match was Vibrio sp. MY-2008-U5 with 100% identity and 97.61% query coverage. Other matches included Vibrio harveyi and Vibrio owensii, both of which are known aquaculture pathogens.
 
 **Phylogenetic Tree Analysis**
 
-* First Isolate: Indramayu Isolate 1 clustered closely with Vibrio rotiferianus WCM6 in a group dominated by V. rotiferianus species, suggesting strong evolutionary ties and potential pathogenicity similar to known vibriosis-causing species.
-* Second Isolate: Indramayu Isolate 2 grouped with Vibrio communis and Vibrio sp. W-13, indicating an environmentally adapted cluster. Despite its non-association with highly pathogenic strains, its proximity to Vibrio owensii suggests it could have opportunistic pathogenic traits under unfavorable conditions.
+* **First Isolate - evolutionary relationship**: Indramayu Isolate 1 clustered closely with Vibrio rotiferianus WCM6 in a group dominated by V. rotiferianus species, suggesting strong evolutionary ties and potential pathogenicity similar to known vibriosis-causing species.
+* **Second Isolate - evolutionary relationship**: Indramayu Isolate 2 grouped with Vibrio communis and Vibrio sp. W-13, indicating an environmentally adapted cluster. Despite its non-association with highly pathogenic strains, its proximity to Vibrio owensii suggests it could have opportunistic pathogenic traits under unfavorable conditions.
 
 **Potential Pathogenicity for Aquaculture**
 
-* First Isolate: The close association with V. rotiferianus species, known for causing shrimp vibriosis, strongly indicates pathogenic potential.
-* Second Isolate: Though part of an environmentally adapted cluster, its similarity to Vibrio communis and proximity to pathogenic Vibrio owensii raise concerns about its opportunistic pathogenicity, especially in stressed aquaculture environments.
+* **First Isolate - pathogen association**: The close association with V. rotiferianus species, known for causing shrimp vibriosis, strongly indicates pathogenic potential.
+* **Second Isolate - pathogen association**: Though part of an environmentally adapted cluster, its similarity to Vibrio communis and proximity to pathogenic Vibrio owensii raise concerns about its opportunistic pathogenicity, especially in stressed aquaculture environments.
 
 ## Recommendations
 **Monitoring and Management**
@@ -245,6 +245,6 @@ Conduct whole-genome sequencing to identify genes linked to pathogenicity (eg., 
 * Thompson, F. L., Iida, T., & Swings, J. (2004). Biodiversity of Vibrios. Microbiology and Molecular Biology Reviews, 68(3), 403-431.
 
 ## Asset
-* [Notebook of Analysis]()
+* [Notebook](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/vibrio_isolate_analysis_Indramayu_Indonesia/data_and_assets/Pond%20Bacterial%20Sequence%20Analysis.ipynb): Jupyter notebook file for conducting bioinformatic analysis for the study 
 
 
