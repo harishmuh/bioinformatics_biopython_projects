@@ -233,7 +233,7 @@ This study investigated the genetic identification, phylogenetic relationship, a
 
 **Further Research**
 * Perform virulence factor testing and experimental infections to confirm the pathogenicity of Indramayu Isolates 1 and 2.
-Conduct whole-genome sequencing to identify genes linked to pathogenicity (eg., Virulence gen PirA and PirB) and antibiotic resistance.
+* Conduct whole-genome sequencing to identify genes linked to pathogenicity (eg., Virulence gen PirA and PirB) and antibiotic resistance.
 
 ## References
 * Aguilera-Rivera, D., Prieto-Davó, A., Rodríguez-Fuentes, G., Escalante-Herrera, K. S., & Gaxiola, G. (2019). A vibriosis outbreak in the Pacific white shrimp, Litopenaeus vannamei, reared in biofloc and clear seawater. Journal of Invertebrate Pathology, 167, Article 107249.
