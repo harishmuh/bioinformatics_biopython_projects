@@ -22,8 +22,15 @@ Welcome to my bioinformatics project repository! This collection showcases how I
 
 ### 🐟 **[Phylogenetic Analysis of Fish Species in Batanghari River](https://github.com/harishmuh/bioinformatics_biopython_projects/tree/main/in_silico_analysis_fish_species_BatanghariRiver_Indonesia)**  
 - **Description**: Constructed a phylogenetic tree for fish species using COI sequences from NCBI GenBank.  
-- **Key Methods**: Sequence alignment, tree construction with Biopython Library and FastTree Module, evolutionary analysis.  
+- **Key Methods**: Sequence alignment, tree construction with Biopython Library and FastTree Module, evolutionary analysis.
 
+---
+
+## 🤖🧬 Bioinformatics, Computational Biologist, and Machine Learning 
+
+### 🧬 **[Acute Leukimia Prediction](https://github.com/harishmuh/Gene-Expression_Acute-Leukimia_MLClassification)**
+- **Description**: Constructed a prediction model based on gene expression data (DNA microarray) to discriminate whether patient's acute leukimia case is considered as AML (Acute Myeloid Leukimia) or ALL (Acute Lymphoblastic Leukimia)
+- **Key Methods**: Principle Component Analysis (PCA), Machine Learning (Binary Classification), Random Forest.
 ---
 
 ## 💡 Why Biopython?  
