@@ -26,7 +26,7 @@ Welcome to my bioinformatics project repository! This collection showcases how I
 
 ---
 
-## 🤖🧬 Bioinformatics, Computational Biologist, and Machine Learning 
+## 🤖🧬 Bioinformatics, Computational Biology, and Machine Learning 
 
 ### 🧬 **[Acute Leukimia Prediction](https://github.com/harishmuh/Gene-Expression_Acute-Leukimia_MLClassification)**
 - **Description**: Constructed a prediction model based on gene expression data (DNA microarray) to discriminate whether patient's acute leukimia case is considered as AML (Acute Myeloid Leukimia) or ALL (Acute Lymphoblastic Leukimia)
