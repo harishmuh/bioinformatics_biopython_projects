@@ -1,8 +1,8 @@
 ![Biopython](https://raw.githubusercontent.com/biopython/biopython/master/Doc/images/biopython_logo_m.png)
 
-# 🧬 Bioinformatics Projects with Biopython  
+# 🧬 Computational Biology and Bioinformatics Projects  
 
-Welcome to my bioinformatics project repository! This collection showcases how I combine **data science skills** with my **microbiology expertise** to tackle biological sequence analysis and phylogenetic studies using [Biopython](https://github.com/biopython), a powerful library for computational biology.
+Welcome to my project repository! This collection showcases how I combine **data science skills** with my **biology/microbiology expertise** to tackle computational biology problems and perform biological sequence analysis (including phylogenetic study). 
 
 ---
 
@@ -33,8 +33,8 @@ Welcome to my bioinformatics project repository! This collection showcases how I
 - **Key Methods**: Principle Component Analysis (PCA), Machine Learning (Binary Classification), Random Forest.
 ---
 
-## 💡 Why Biopython?  
-Biopython is an open-source library for computational biology and bioinformatics. It simplifies tasks such as sequence analysis, alignment, and phylogenetic tree construction, making it an indispensable tool for bioinformaticians and researchers.
+## 💡 About Biopython?  
+[Biopython](https://github.com/biopython) is an open-source and powerful library for computational biology and bioinformatics. It simplifies tasks such as sequence analysis, alignment, and phylogenetic tree construction, making it an indispensable tool for bioinformaticians and researchers.
 
 ---
 
