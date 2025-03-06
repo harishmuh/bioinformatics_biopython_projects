@@ -8,7 +8,7 @@ Welcome to my project repository! This collection showcases how I combine **data
 
 ## 🤖 🧪 Computational Biology and Machine Learning 
 
-### 🦐 **[Exploratory Data Analysis of zootechnic, water quality and plankton parameters](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/vibrio_isolate_analysis_Indramayu_Indonesia/data_and_assets/README.md)**
+### 🦐 **[EDA of shrimp biological data, water quality parameters and plankton](https://github.com/harishmuh/bioinformatics_biopython_projects/blob/main/vibrio_isolate_analysis_Indramayu_Indonesia/data_and_assets/README.md)**
 - **Description**: Performed visualization and exploratory data analysis of shrimp biological data, water quality parameters and plankton abundance
 - **Key Methods**: exploratory data analysis (EDA), heatmap correlation, stacked bars
 
