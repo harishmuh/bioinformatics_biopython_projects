@@ -1,6 +1,5 @@
-![Computational Biology and Bioinformatics](https://biosciences.gatech.edu/sites/default/files/images/bigstock-background-concept-wordcloud-i-91463843.jpg)
 
-# 🧬 Computational Biology and Bioinformatics Projects
+# Computational Biology and Bioinformatics Projects
 
 This portfolio showcases computational approaches to biological data, including **sequence analysis, molecular identification, phylogenetics, gene expression analysis, and biological data exploration**.
 
